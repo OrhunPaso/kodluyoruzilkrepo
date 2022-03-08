@@ -1,11 +1,11 @@
-#kodluyoruz ilk repo
+# kodluyoruz ilk repo
 
 <hr>
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 <img src="./src/img/screenshot.png"></img>
 
-##Installation
+## Installation
 
 <hr>
 Öncelikle projeyi clonelayın. 
@@ -14,7 +14,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 git clone https://github.com/OrhunPaso/kodluyoruzilkrepo
 ```
 
-##Usage
+## Usage
 
 <hr>
 Projeyi cloneladıktan sonra dilediğiniz IDE programında açınız.
@@ -25,12 +25,12 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-##Contributing
+## Contributing
 
 <hr>
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##Lıcense
+## Lıcense
 
 <hr>
 <a href="https://choosealicense.com/licenses/mit/">MIT</a>
